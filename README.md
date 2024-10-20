@@ -1,6 +1,3 @@
-Sure! Here’s a README file with emojis to make it more engaging:
-
----
 
 # 🌟 A Landing Page
 
@@ -59,6 +56,4 @@ Contributions are welcome! 🎉 Fork the repository and submit a pull request wi
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
 
----
 
-Enjoy exploring and modifying the landing page! 😄
